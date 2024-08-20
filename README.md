@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 💫 Hi! I am Dilara Ustek
+
 Welcome to my GitHub profile! I am a Management Information Systems graduate passionate about data analysis and business intelligence. My journey into IT began with database programming and has expanded through diverse projects during my studies. Here, you'll find a collection of my work, ranging from web development to machine learning projects.
 
 
